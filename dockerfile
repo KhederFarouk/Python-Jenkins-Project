@@ -8,4 +8,4 @@ EXPOSE 5000
 
 ENV NAME World
 
-CMD ["python", "app.py"]
+CMD ["python", "Farouk.py"]
